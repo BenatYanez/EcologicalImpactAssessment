@@ -1,0 +1,3 @@
+eventID;samplingProtocol;samplingEffort;sampleSizeValue;sampleSizeUnit;eventDate;eventTime;startDayOfYear;eventRemarks;country;countryCode;locality;locationID;decimalLatitudeSTART;decimalLongitudeSTART;geodeticDatum;coordinateUncertaintyInMeters;type;ownerInstitutionCode
+NCentreP-Bird;Point count;30 minute count of all species seen and heard;30;Minutes;14/09/2023;10:45-11:15;257;Windy;Scotland;GB-SCT;Lochranza, Isle of Arran;Ncentre;55.70333;-5.2742;WGS84;8;Event;
+SEastP-Bird;Point count;30 minute count of all species seen and heard;30;Minutes;14/09/2023;10:07-10:37;257;Noisy Distillery;Scotland;GB-SCT;Lochranza, Isle of Arran;Seast;55.6946488;-5.2753201;WGS84;8;Event;

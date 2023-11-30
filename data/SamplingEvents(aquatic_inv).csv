@@ -1,0 +1,20 @@
+eventID;samplingProtocol;samplingEffort;sampleSizeValue;sampleSizeUnit;eventDate;eventTime;startDayOfYear;eventRemarks;country;countryCode;locality;locationID;decimalLatitudeSTART;decimalLongitudeSTART;decimalLatitudeEND;decimalLongitudeEND;geodeticDatum;coordinateUncertaintyInMeters;type;ownerInstitutionCode
+SStr-1;Kicksampling;Samples were taken at ~20 meter intervals along a transect;2;Minutes;13/09/2023;13:30-13:32;256;;Scotland;GB-SCT;Lochranza, Isle of Arran;SStr;55.6979336;-5.2742408;55.6979336;-5.2742408;WGS84;8;Event;
+SStr-2;Kicksampling;Samples were taken at ~20 meter intervals along a transect;2;Minutes;13/09/2023;13:40-13:42;256;;Scotland;GB-SCT;Lochranza, Isle of Arran;SStr;55.6973728;-5.2736041;55.6973728;-5.2736041;WGS84;8;Event;
+SStr-3;Kicksampling;Samples were taken at ~20 meter intervals along a transect;2;Minutes;13/09/2023;14:00-14:02;256;;Scotland;GB-SCT;Lochranza, Isle of Arran;SStr;55.6968728;-5.2721393;55.6968728;-5.2721393;WGS84;8;Event;
+SStr-4;Kicksampling;Samples were taken at ~20 meter intervals along a transect;2;Minutes;13/09/2023;14:20-14:22;256;;Scotland;GB-SCT;Lochranza, Isle of Arran;SStr;55.6966402;-5.2707888;55.6966402;-5.2707888;WGS84;8;Event;
+SStr-5;Kicksampling;Samples were taken at ~20 meter intervals along a transect;2;Minutes;13/09/2023;14:40-14:42;256;;Scotland;GB-SCT;Lochranza, Isle of Arran;SStr;55.6982586;-5.2739193;55.6982586;-5.2739193;WGS84;8;Event;
+SMar-1;Kicksampling;Opportunistic sites;30;Seconds;13/09/2023;13:00-13:02;256;;Scotland;GB-SCT;Lochranza, Isle of Arran;SMar;;;;;;;Event;
+SMar-2;Kicksampling;Opportunistic sites;30;Seconds;13/09/2023;13:30-13:32;256;;Scotland;GB-SCT;Lochranza, Isle of Arran;SMar;;;;;;;Event;
+SMar-3;Kicksampling;Opportunistic sites;30;Seconds;13/09/2023;14:00-14:02;256;;Scotland;GB-SCT;Lochranza, Isle of Arran;SMar;;;;;;;Event;
+SMar-4;Kicksampling;Opportunistic sites;30;Seconds;13/09/2023;14:30-14:32;256;;Scotland;GB-SCT;Lochranza, Isle of Arran;SMar;;;;;;;Event;
+SMar-5;Kicksampling;Opportunistic sites;30;Seconds;14/09/2023;9:40-9:42;257;;Scotland;GB-SCT;Lochranza, Isle of Arran;SMar;55.6963381;-5.2816786;55.6963381;-5.2816786;WGS84;8;Event;
+SMar-6;Kicksampling;Opportunistic sites;30;Seconds;14/09/2023;10:00-10:02;257;;Scotland;GB-SCT;Lochranza, Isle of Arran;SMar;;;;;;;Event;
+SMar-7;Kicksampling;Opportunistic sites;30;Seconds;14/09/2023;10:20-10:22;257;Empty;Scotland;GB-SCT;Lochranza, Isle of Arran;SMar;;;;;;;Event;
+SMar-8;Kicksampling;Opportunistic sites;30;Seconds;14/09/2023;10:40-10:42;257;Empty;Scotland;GB-SCT;Lochranza, Isle of Arran;SMar;;;;;;;Event;
+SMar-9;Kicksampling;Opportunistic sites;30;Seconds;14/09/2023;11:00-11:02;257;Empty;Scotland;GB-SCT;Lochranza, Isle of Arran;SMar;;;;;;;Event;
+NStr-1;Kicksampling;Samples were taken at ~20 meter intervals along a transect;3;Minutes;13/09/2023;14:33-14:35;256;;Scotland;GB-SCT;Lochranza, Isle of Arran;NStr;55.7041476;-5.266852;55.7041476;-5.266852;WGS84;8;Event;
+NStr-2;Kicksampling;Samples were taken at ~20 meter intervals along a transect;3;Minutes;13/09/2023;15:12-15:14;256;;Scotland;GB-SCT;Lochranza, Isle of Arran;NStr;;;;;;;Event;
+NStr-3;Kicksampling;Samples were taken at ~20 meter intervals along a transect;3;Minutes;13/09/2023;15:33-15:35;256;;Scotland;GB-SCT;Lochranza, Isle of Arran;NStr;;;;;;;Event;
+NStr-4;Kicksampling;Samples were taken at ~20 meter intervals along a transect;3;Minutes;13/09/2023;16:01-16:03;256;;Scotland;GB-SCT;Lochranza, Isle of Arran;NStr;;;;;;;Event;
+NStr-5;Kicksampling;Samples were taken at ~20 meter intervals along a transect;3;Minutes;13/09/2023;16:55-16:57;256;;Scotland;GB-SCT;Lochranza, Isle of Arran;NStr;55.7045233;-5.2675045;55.7045233;-5.2675045;WGS84;8;Event;

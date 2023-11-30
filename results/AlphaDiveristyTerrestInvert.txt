@@ -1,0 +1,5 @@
+"Alpha Diversity" "Site"
+"1" 29 "Total South"
+"2" 37 "Total North"
+"3" 3.92307692307692 "Average North"
+"4" 4.25 "Average South"

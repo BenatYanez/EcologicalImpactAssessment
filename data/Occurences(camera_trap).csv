@@ -1,0 +1,13 @@
+eventID;occurrenceID;basisOfRecord;individualCount;organismQuantity;organismQuantityType;occurrenceStatus;scientificName;kingdom;phylum;class;order;family;genus;species;infraspecificEpithet;taxonRank;recordedBy;type;ownerInstitutionCode
+NDay1-Cam1;NDay1-Cam1-10:45;HumanObservation;1;1;individuals;present;Sciurus vulgaris;Animalia;Chordata;Mammalia;Rodentia;Sciuridae;Sciurus;Sciurus vulgaris;;Species;Cale;Event;
+NDay3-Cam1;NDay3-Cam1-17:42;HumanObservation;1;1;individuals;present;Oryctolagus cuniculus;Animalia;Chordata;Mammalia;Lagomorpha;Leporidae;Oryctolagus;Oryctolagus cuniculus;;Species;Cale;Event;
+NDay3-Cam1;NDay3-Cam1-20:01;HumanObservation;1;1;individuals;present;Oryctolagus cuniculus;Animalia;Chordata;Mammalia;Lagomorpha;Leporidae;Oryctolagus;Oryctolagus cuniculus;;Species;Cale;Event;
+NDay3-Cam1;NDay3-Cam1-20:29;HumanObservation;1;1;individuals;present;Apodemus sylvaticus;Animalia;Chordata;Mammalia;Rodentia;Muridae;Apodemus;Apodemus sylvaticus;;Species;Cale;Event;
+NDay2-Cam2;NDay2-Cam2-17:49;HumanObservation;1;1;individuals;present;Oryctolagus cuniculus;Animalia;Chordata;Mammalia;Lagomorpha;Leporidae;Oryctolagus;Oryctolagus cuniculus;;Species;Cale;Event;
+NDay2-Cam2;NDay2-Cam2-04:04;HumanObservation;1;1;individuals;present;Oryctolagus cuniculus;Animalia;Chordata;Mammalia;Lagomorpha;Leporidae;Oryctolagus;Oryctolagus cuniculus;;Species;Cale;Event;
+NDay3-Cam2;NDay3-Cam2-10:05;HumanObservation;1;1;individuals;present;Anthus pratensis;Animalia;Chordata;Aves;Passeriformes;Motacillidae;Anthus;Anthus pratensis;;Species;Cale;Event;
+NDay3-Cam3;NDay3-Cam3-02:41;HumanObservation;1;1;individuals;present;Sorex araneus;Animalia;Chordata;Mammalia;Eulipotyphia;Soricidae;Sorex;Sorex araneus;;Species;Cale;Event;
+SDay1-Cam5;SDay1-Cam2-07:12;HumanObservation;1;1;individuals;present;Cervus elephus;Animalia;Chordata;Mammalia;Artiodactyla;Cervidae;Cervus;Cervus elephus;;Species;Cale;Event;
+SDay2-Cam4;SDay2-Cam4-22:31;HumanObservation;1;1;individuals;present;Cervus elephus;Animalia;Chordata;Mammalia;Artiodactyla;Cervidae;Cervus;Cervus elephus;;Species;Cale;Event;
+SDay2-Cam5;SDay2-Cam5-07:53;HumanObservation;1;1;individuals;present;Cervus elephus;Animalia;Chordata;Mammalia;Artiodactyla;Cervidae;Cervus;Cervus elephus;;Species;Cale;Event;
+SDay2-Cam5;SDay2-Cam5-08:18;HumanObservation;2;2;individuals;present;Cervus elephus;Animalia;Chordata;Mammalia;Artiodactyla;Cervidae;Cervus;Cervus elephus;;Species;Cale;Event;

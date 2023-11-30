@@ -1,0 +1,19 @@
+eventID;samplingProtocol;samplingEffort;sampleSizeValue;sampleSizeUnit;eventDate;eventTime;startDayOfYear;eventRemarks;country;countryCode;locality;locationID;decimalLatitudeSTART;decimalLongitudeSTART;geodeticDatum;coordinateUncertaintyInMeters;type;ownerInstitutionCode
+NDay1-Cam1;CameraTrap;Motion sensored pictures with 2 minute delay between pictures;24;Hours;12-13/09/2023;13:00;255;;Scotland;GB-SCT;Lochranza, Isle of Arran;N-1;55.704196;-5.28021;WGS84;3;Event;
+NDay1-Cam2;CameraTrap;Motion sensored pictures with 2 minute delay between pictures;24;Hours;12-13/09/2023;13:00;255;Failed;Scotland;GB-SCT;Lochranza, Isle of Arran;N-2;55.704331;-5.279301;WGS84;3;Event;
+NDay1-Cam3;CameraTrap;Motion sensored pictures with 2 minute delay between pictures;24;Hours;12-13/09/2023;13:00;255;Failed;Scotland;GB-SCT;Lochranza, Isle of Arran;N-3;55.704735;-5.278535;WGS84;3;Event;
+NDay2-Cam1;CameraTrap;Motion sensored pictures with 2 minute delay between pictures;24;Hours;13-14/09/2023;13:00;256;No photos;Scotland;GB-SCT;Lochranza, Isle of Arran;N-4;55.704708;-5.277818;WGS84;3;Event;
+NDay2-Cam2;CameraTrap;Motion sensored pictures with 2 minute delay between pictures;24;Hours;13-14/09/2023;13:00;256;;Scotland;GB-SCT;Lochranza, Isle of Arran;N-5;55.705301;-5.277722;WGS84;3;Event;
+NDay2-Cam3;CameraTrap;Motion sensored pictures with 2 minute delay between pictures;24;Hours;13-14/09/2023;13:00;256;No photos;Scotland;GB-SCT;Lochranza, Isle of Arran;N-6;55.706299;-5.277722;WGS84;3;Event;
+NDay3-Cam1;CameraTrap;Motion sensored pictures with 2 minute delay between pictures;24;Hours;14-15/09/2023;13:00;257;;Scotland;GB-SCT;Lochranza, Isle of Arran;N-7;55.706784;-5.278105;WGS84;3;Event;
+NDay3-Cam2;CameraTrap;Motion sensored pictures with 2 minute delay between pictures;24;Hours;14-15/09/2023;13:00;257;;Scotland;GB-SCT;Lochranza, Isle of Arran;N-8;55.707026;-5.2782;WGS84;3;Event;
+NDay3-Cam3;CameraTrap;Motion sensored pictures with 2 minute delay between pictures;24;Hours;14-15/09/2023;13:00;257;;Scotland;GB-SCT;Lochranza, Isle of Arran;N-9;55.70743;-5.278679;WGS84;3;Event;
+SDay1-Cam4;CameraTrap;Motion sensored pictures with 2 minute delay between pictures;24;Hours;12-13/09/2023;13:00;255;;Scotland;GB-SCT;Lochranza, Isle of Arran;S-1;55.700019;-5.285472;WGS84;3;Event;
+SDay1-Cam5;CameraTrap;Motion sensored pictures with 2 minute delay between pictures;24;Hours;12-13/09/2023;13:00;255;;Scotland;GB-SCT;Lochranza, Isle of Arran;S-2;55.699749;-5.285472;WGS84;3;Event;
+SDay1-Cam6;CameraTrap;Motion sensored pictures with 2 minute delay between pictures;24;Hours;12-13/09/2023;13:00;255;No photos;Scotland;GB-SCT;Lochranza, Isle of Arran;S-3;55.699507;-5.28552;WGS84;3;Event;
+SDay2-Cam4;CameraTrap;Motion sensored pictures with 2 minute delay between pictures;24;Hours;13-14/09/2023;13:00;256;;Scotland;GB-SCT;Lochranza, Isle of Arran;S-4;55.699453;-5.286524;WGS84;3;Event;
+SDay2-Cam5;CameraTrap;Motion sensored pictures with 2 minute delay between pictures;24;Hours;13-14/09/2023;13:00;256;;Scotland;GB-SCT;Lochranza, Isle of Arran;S-5;55.699152;-5.285376;WGS84;3;Event;
+SDay2-Cam6;CameraTrap;Motion sensored pictures with 2 minute delay between pictures;24;Hours;13-14/09/2023;13:00;256;No photos;Scotland;GB-SCT;Lochranza, Isle of Arran;S-6;55.698348;-5.286094;WGS84;3;Event;
+SDay3-Cam4;CameraTrap;Motion sensored pictures with 2 minute delay between pictures;24;Hours;14-15/09/2023;13:00;257;No photos;Scotland;GB-SCT;Lochranza, Isle of Arran;S-7;55.698078;-5.287385;WGS84;3;Event;
+SDay3-Cam5;CameraTrap;Motion sensored pictures with 2 minute delay between pictures;24;Hours;14-15/09/2023;13:00;257;No photos;Scotland;GB-SCT;Lochranza, Isle of Arran;S-8;55.697971;-5.288007;WGS84;3;Event;
+SDay3-Cam6;CameraTrap;Motion sensored pictures with 2 minute delay between pictures;24;Hours;14-15/09/2023;13:00;257;No photos;Scotland;GB-SCT;Lochranza, Isle of Arran;S-9;55.697836;-5.287959;WGS84;3;Event;

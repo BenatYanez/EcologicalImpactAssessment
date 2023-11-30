@@ -1,0 +1,6 @@
+"x"
+"x55" "Fringilla coelebs"
+"x76" "Prunella modularis"
+"x115" "Circus cyaneus"
+"x120" "Coloeus monedula"
+"x206" "Spinus spinus"

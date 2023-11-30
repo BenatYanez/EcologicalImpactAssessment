@@ -1,0 +1,10 @@
+eventID;occurrenceID;basisOfRecord;individualCount;organismQuantity;organismQuantityType;occurrenceStatus;scientificName;kingdom;phylum;class;order;family;genus;species;infraspecificEpithet;taxonRank;recordedBy;type;ownerInstitutionCode
+NCentreP-Bird;NCentreP-Bird-1;HumanObservation;10;10;individuals;present;Corvus cornix;Animalia;Chordata;Aves;Passeriformes;Corvidae;Corvus;Corvus cornix;;Species;Murphy & Beñat;Event;
+NCentreP-Bird;NCentreP-Bird-2;HumanObservation;2;2;individuals;present;Troglodytes troglodytes;Animalia;Chordata;Aves;Passeriformes;Troglogdytidae;Troglodytes;Troglodytes troglodytes;;Species;Murphy & Beñat;Event;
+NCentreP-Bird;NCentreP-Bird-3;HumanObservation;2;2;individuals;present;Corvus corax;Animalia;Chordata;Aves;Passeriformes;Corvidae;Corvus;Corvus corax;;Species;Murphy & Beñat;Event;
+NCentreP-Bird;NCentreP-Bird-4;HumanObservation;26;26;individuals;present;Coloeus monedula;Animalia;Chordata;Aves;Passeriformes;Corvidae;Coloeus;Coloeus monedula;;Species;Murphy & Beñat;Event;
+NCentreP-Bird;NCentreP-Bird-5;HumanObservation;4;4;individuals;present;Anthus pratensis;Animalia;Chordata;Aves;Passeriformes;Motacillidae;Anthus;Anthus pratensis;;Species;Murphy & Beñat;Event;
+SEastP-Bird;SEastP-Bird-6;HumanObservation;6;6;individuals;present;Troglodytes troglodytes;Animalia;Chordata;Aves;Passeriformes;Troglogdytidae;Troglodytes;Troglodytes troglodytes;;Species;Alex & Kevin;Event;
+SEastP-Bird;SEastP-Bird-7;HumanObservation;4;4;individuals;present;Erithacus rubecula;Animalia;Chordata;Aves;Passeriformes;Muscicapidae;Erithacus;Erithacus rubecula;;Species;Alex & Kevin;Event;
+SEastP-Bird;SEastP-Bird-8;HumanObservation;2;2;individuals;present;Prunella modularis;Animalia;Chordata;Aves;Passeriformes;Prunellidae;Prunella;Prunella modularis;;Species;Alex & Kevin;Event;
+SEastP-Bird;SEastP-Bird-9;HumanObservation;2;2;individuals;present;Coloeus monedula;Animalia;Chordata;Aves;Passeriformes;Corvidae;Coloeus;Coloeus monedula;;Species;Alex & Kevin;Event;

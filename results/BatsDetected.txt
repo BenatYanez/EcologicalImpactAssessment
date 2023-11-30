@@ -1,0 +1,7 @@
+"eventID" "species" "class_prob"
+"9" "SDay1-Audio" "Pipistrellus pipistrellus" 0.806
+"10" "SDay1-Audio" "Pipistrellus pygmaeus" 0.794
+"28" "NDay3-Audio" "Pipistrellus pipistrellus" 0.781
+"29" "NDay3-Audio" "Pipistrellus pygmaeus" 0.717
+"40" "NDay4-Audio" "Pipistrellus pipistrellus" 0.821
+"41" "NDay4-Audio" "Pipistrellus pygmaeus" 0.857

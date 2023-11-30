@@ -1,0 +1,5 @@
+eventID;samplingProtocol;samplingEffort;sampleSizeValue;sampleSizeUnit;eventDate;eventTime;startDayOfYear;eventRemarks;country;countryCode;locality;locationID;decimalLatitudeSTART;decimalLongitudeSTART;geodeticDatum;coordinateUncertaintyInMeters;type;ownerInstitutionCode
+SDay1-Audio;Audio Recordings;;12.5;Hours;12-13/09/2023;19:00-7:30;255;;Scotland;GB-SCT;Lochranza, Isle of Arran;;55.700073;-5.285424;WGS84;3;Event;
+SDay2-Audio;Audio Recordings;;12.5;Hours;13-14/09/2023;19:00-7:30;256;;Scotland;GB-SCT;Lochranza, Isle of Arran;;55.696946;-5.280879;WGS84;3;Event;
+NDay3-Audio;Audio Recordings;;12.5;Hours;14-15/09/2023;19:00-7:30;257;;Scotland;GB-SCT;Lochranza, Isle of Arran;;55.704358;-5.26715;WGS84;3;Event;
+NDay4-Audio;Audio Recordings;;12.5;Hours;15-16/09/2023;19:00-7:30;258;;Scotland;GB-SCT;Lochranza, Isle of Arran;;55.705759;-5.282506;WGS84;3;Event;

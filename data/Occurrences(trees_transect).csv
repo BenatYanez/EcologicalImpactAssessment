@@ -1,0 +1,14 @@
+eventID;occurrenceID;basisOfRecord;individualCount;organismQuantity;organismQuantityType;occurrenceStatus;scientificName;kingdom;phylum;class;order;family;genus;species;infraspecificEpithet;taxonRank;recordedBy;type;ownerInstitutionCode
+SLowT-Tree;SLowT-Tree-1;HumanObservation;37;37;individuals;present;Crataegus monogyna;Plantae;Magnoliophyta;Magnoliopsida;Rosales;Rosaceae;Crataegus;Crataegus monogyna;;Species;Jess;Event;
+SLowT-Tree;SLowT-Tree-2;HumanObservation;17;17;individuals ;present;Ulex europaeus;Plantae;Magnoliophyta;Magnoliopsida;Fabales;Fabaceae;Ulex;Ulex europaeus;;Species;Jess;Event;
+SLowT-Tree;SLowT-Tree-3;HumanObservation;17;17;individuals ;present;Betula pendula ;Plantae;Magnoliophyta;Magnoliopsida;Fagales;Betulaceae;Betula;Betula pendula ;;Species;Jess;Event;
+SLowT-Tree;SLowT-Tree-4;HumanObservation;1;1;individuals ;present;Ilex aquifolium ;Plantae ;Magnoliophyta;Magnoliopsida;Aquifoliales;Aquifoliaceae;Ilex;Ilex aquifolium ;;Species;Jess;Event;
+SLowT-Tree;SLowT-Tree-5;HumanObservation;2;2;individuals ;present;Fraxinus excelsior;Plantae;Magnoliophyta;Magnoliopsida;Lamiales;Oleaceae;Fraxinus;Fraxinus excelsior;;Species;Jess;Event;
+SMidT-Trees;SMidT-Trees-6;HumanObservation;15;15;individuals;present;Crataegus monogyna;Plantae;Magnoliophyta;Magnoliopsida;Rosales;Rosaceae;Crataegus;Crataegus monogyna;;Species;Jess;Event;
+SHighT-Trees;SHighT-Trees-7;HumanObservation;1;1;individuals;present;Crataegus monogyna;Plantae;Magnoliophyta;Magnoliopsida;Rosales;Rosaceae;Crataegus;Crataegus monogyna;;Species;Jess;Event;
+SHighT-Trees;SHighT-Trees-8;HumanObservation;29;29;individuals;present;Betula pendula ;Plantae;Magnoliophyta;Magnoliopsida;Fagales;Betulaceae;Betula;Betula pendula ;;Species;Jess;Event;
+SHighT-Trees;SHighT-Trees-9;HumanObservation;2;2;individuals;present;Fraxinus excelsior;Plantae;Magnoliophyta;Magnoliopsida;Lamiales;Oleaceae;Fraxinus;Fraxinus excelsior;;Species;Jess;Event;
+NLowT-Trees;NLowT-Trees-10;HumanObservation;10;10;individuals;present;Sorbus aucuparia;Plantae;Magnoliophyta;Magnoliopsida;Rosales;Rosaceae;Sorbus;Sorbus aucuparia;;Species;Hazel;Event;
+NLowT-Trees;NLowT-Trees-11;HumanObservation;3;3;individuals;present;Crataegus monogyna;Plantae;Magnoliophyta;Magnoliopsida;Rosales;Rosaceae;Crataegus;Crataegus monogyna;;Species;Hazel;Event;
+NLowT-Trees;NLowT-Trees-12;HumanObservation;1;1;individuals;present;Fraxinus excelsior;Plantae;Magnoliophyta;Magnoliopsida;Lamiales;Oleaceae;Fraxinus;Fraxinus excelsior;;Species;Hazel;Event;
+NLowT-Trees;NLowT-Trees-13;HumanObservation;1;1;individuals;present;Rhododendron ponticum;Plantae;Magnoliophyta;Magnoliopsida;Ericales;Ericaceae;Rhododendron;Rhododendron ponticum;;Species;Hazel;Event;
